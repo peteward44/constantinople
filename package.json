@@ -1,5 +1,5 @@
 {
-  "name": "constantinople",
+  "name": "lygos",
   "version": "0.1.0",
   "description": "Node.js code coverage tool designed for simple usage",
   "main": "index.js",
@@ -8,24 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peteward44/constantinople.git"
+    "url": "git+https://github.com/peteward44/lygos.git"
   },
   "keywords": [
     "coverage",
     "code",
-    "coverage",
     "JS",
-    "code",
-    "coverage",
-    "JS",
-    "coverage",
     "test",
-    "testing"
+    "testing",
+	"istanbul",
+	"nyc"
   ],
   "author": "Pete Ward <peteward44@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/peteward44/constantinople/issues"
+    "url": "https://github.com/peteward44/lygos/issues"
   },
-  "homepage": "https://github.com/peteward44/constantinople#readme"
+  "homepage": "https://github.com/peteward44/lygos#readme"
 }
