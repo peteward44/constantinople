@@ -16,13 +16,19 @@
     "JS",
     "test",
     "testing",
-	"istanbul",
-	"nyc"
+    "istanbul",
+    "nyc"
   ],
   "author": "Pete Ward <peteward44@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/peteward44/lygos/issues"
   },
-  "homepage": "https://github.com/peteward44/lygos#readme"
+  "homepage": "https://github.com/peteward44/lygos#readme",
+  "dependencies": {
+    "espree": "^4.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
